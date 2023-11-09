@@ -1,0 +1,29 @@
+{
+  "name": "starterkit_1",
+  "version": "1.0.0",
+  "description": "indulo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/endre88/starterkit_1.git"
+  },
+  "keywords": [
+    "starterkit"
+  ],
+  "author": "Endre Szabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endre88/starterkit_1/issues"
+  },
+  "homepage": "https://github.com/endre88/starterkit_1#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.2"
+  }
+}
